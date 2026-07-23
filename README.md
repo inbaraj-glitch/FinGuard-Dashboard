@@ -937,9 +937,9 @@ FinGuard AI is an educational personal finance analytics project.
 
 ## Author
 
-*Inbaraj S*
+*Inbaraj S
 
-An IT professional committed to developing innovative, data-driven solutions. Focused on continuous learning and delivering impactful technology projects.
+An IT professional committed to developing innovative, data-driven solutions. Focused on continuous learning and delivering impactful technology projects.*
 ---
 
 ## Acknowledgements
